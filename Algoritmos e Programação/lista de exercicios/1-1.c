@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 int main(){
     //Receber um número, calcular seu dobro e exibir o resultado.

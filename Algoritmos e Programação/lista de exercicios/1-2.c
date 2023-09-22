@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 int main(){
     //Receber dois valores, calcular sua média aritmética e exibir o resultado.
