@@ -4,7 +4,7 @@
 <table>
     <td height="40px">
       <b>
-        <a href="readme-pt.md">PT-BR 🇧🇷</a>
+        <a href="readme-p.md">PT-BR 🇧🇷</a>
       </b>
     </td>
     <td height="40px">
