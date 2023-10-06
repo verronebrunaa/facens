@@ -2,8 +2,8 @@
 
 int main()
 {
-    /* receber a nota de um aluno no modulo 1 e no modulo 2 e calcular a media final.
-    só sao aceitas notas entre 0 e 10. caso o usuario digite uma nota invalida, o programa deve pedir para que ele digite novamente.*/
+    /* receber a nota de um aluno no modulo 1 e no modulo 2 e calcular a media final. Só serão aceitas notas entre 0 e 10. caso o usuario digite uma nota inválida, o programa deve pedir para que ele digite novamente.*/
+    
     float nota1, nota2, media;
 
     do
@@ -16,7 +16,7 @@ int main()
 
     do
     {
-        printf("Digite a nota do modulo 1: ");
+        printf("Digite a nota do modulo 2: ");
         fflush(stdin);
         scanf("%f", &nota1);
 
