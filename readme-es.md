@@ -1,5 +1,5 @@
 # Facens Projects
->Repository to store the exercises and projects of the Software Engineering college of Sorocaba - Facens.
+>Repositorio para almacenar los ejercicios y proyectos de la facultad de Ingeniería de Software de Sorocaba - Facens.
 
 <table>
     <td height="40px">
