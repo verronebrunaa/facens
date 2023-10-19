@@ -5,7 +5,7 @@ int main()
     int i;
     int idade[10];
 
-    float media, soma;
+    float soma = 0.0f;
 
     for(i = 0; i < 10; i++){
         printf("Digite a idade da pessoa %i: ", i+1);
