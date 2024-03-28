@@ -35,6 +35,10 @@ printf("\n Digite a letra a ser procurada: ");
 fflush(stdin);
 maiuscula(&letra,1);
 cnome=busca_nome(ptr, tam, letra, &pletra);
+
+if(cnome!=0)
+    printf("tivemos %i nomes comecados com a letra: %c\n%s\n\n", cnome, letra, pletra);
+else("Nao tivemos nome comecados com a letra: %c\n\n", letra);
 system("pause");
 }
 
