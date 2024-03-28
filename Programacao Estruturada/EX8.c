@@ -13,7 +13,7 @@ int cont=0, tam=0, cnome;
 
 do{
     printf("\n Digite o nome: ");
-    gets(aux);
+    gets(aux); //receber string 
     fflush(stdin);
     tam=strlen(aux)+1; //por conta do '\0'
     aloca(&ptr, tam); //ponteiro > ponteiro
