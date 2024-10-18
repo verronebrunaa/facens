@@ -1,0 +1,1 @@
+// Dado o array numeros = [10, 20, 30, 40, 50], escreva uma função que receba um array e retorne a soma de todos os elementos desse array.

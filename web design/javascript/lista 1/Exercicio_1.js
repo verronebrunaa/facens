@@ -1,5 +1,4 @@
-// Escreva um programa que declare duas variáveis numéricas e realize as quatro
-// operações matemáticas básicas (+, -, *, /). Imprima os resultados no console.
+// Escreva um programa que declare duas variáveis numéricas e realize as quatro operações matemáticas básicas (+, -, *, /). Imprima os resultados no console.
 
 let num1 = 10;
 let num2 = 5;
